@@ -52,4 +52,5 @@ Since we do not have iTunes connect setup yet, here is how to install the app at
 10. Plug in your iPhone, and click the iPhone 6 next to the stop button on the top and select your iOS device (not the model, the name of your device).
 11. Click the play button, hit “fix issue” when it pops up, unlock your iPhone.
 12. On your iPhone go to Setting > General > Profiles. Scroll down and click on a field with you Apple ID email address and hit "Trust"
-13. Now the app is installed on your iPhone, run it and enjoy : )
+13. Your iPhone will restart a couple times while installing the app, that's normal.
+14. Now the app is installed on your iPhone, run it and enjoy : )
